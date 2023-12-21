@@ -51,3 +51,4 @@ This repository contains a comprehensive machine learning project that classifie
 
 ---
 
+<img width="790" alt="image" src="https://github.com/bhuuvan/sms-spam-classifier/assets/68323935/99ca6f90-cf4b-40ad-a683-8369462729c8">
